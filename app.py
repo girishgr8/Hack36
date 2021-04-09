@@ -5,6 +5,9 @@ import os
 app = Flask(__name__)
 basedir = os.path.abspath(os.path.dirname(__file__))
 
+@app.route("/", methods=['POST', 'GET'])
+def index():
+	return render_template('safeRoutes.html')
 
 if __name__ == "__main__":
 # debug=True helps to render changes of website without need for running the server again & again....
