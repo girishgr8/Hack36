@@ -5,20 +5,20 @@
 
 ## Introduction:
 
-Given the current Pandemic Situation, with sudden surge in Covid
+-  Given the current Pandemic Situation, with sudden surge in Covid
 Cases, there is an utmost need to devise solutions which can contain
 the spread of the virus.
 
-Specifically, the issues being addressed are :
+-  Specifically, the issues being addressed are :
 
-1. Safe Commutations through the containment zones
-2. Vaccine Sentiments and Analysis
+    1. Safe Commutations through the containment zones
+    2. Vaccine Sentiments and Analysis
 
-CoviSafe solves the problem through the following supported features:
+-  CoviSafe solves the problem through the following supported features:
 
-1. **Safe Routes** - We have devised an algorithm which provides the Safe Routes from a source to a destination by avoiding the areas which are Covid Hotspots.
+    1. **Safe Routes** - We have devised an algorithm which provides the Safe Routes from a source to a destination by avoiding the areas which are Covid Hotspots.
 
-2. **Vaccine Sentiments** – We have performed Sentiment Analysis on Covid-19 Tweet Data which provides critical statistics such as Mass Sentiments regarding Vaccine, Areas where vaccines are accessible, Timeline based analysis of vaccine distribution, Daily Vaccinations Statistics, which vaccine is being preferred etc.
+    2. **Vaccine Sentiments** – We have performed Sentiment Analysis on Covid-19 Tweet Data which provides critical statistics such as Mass Sentiments regarding Vaccine, Areas where vaccines are accessible, Timeline based analysis of vaccine distribution, Daily Vaccinations Statistics, which vaccine is being preferred etc.
 
 ## Technology Stack:
 
