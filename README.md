@@ -20,9 +20,9 @@ Intro of the project
 ## DEMO:
 
 <div align="center">
-    <img src="./demo/vaccine1.png" width="500px"></img>
-    <img src="./demo/vaccine2.png" width="500px"></img>
-    <img src="./demo/vaccine3.png" width="500px"></img>
+    <img src="./demo/vaccine1.png" width="100%"></img>
+    <img src="./demo/vaccine2.png" width="100%"></img>
+    <img src="./demo/vaccine3.png" width="100%"></img>
 </div>
 
 ## Contributors:
