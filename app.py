@@ -12,7 +12,15 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 @app.route("/", methods=['POST', 'GET'])
 def index():
-	return render_template('safeRoutes.html')
+	return render_template('index.html')
+
+@app.route("/vaccine", methods=['POST', 'GET'])
+def vaccine():
+	return render_template('vaccine.html')
+
+@app.route("/saferoutes", methods=['POST', 'GET'])
+def saferoutes():
+	return render_template('saferoutes.html')
 
 if __name__ == "__main__":
 # debug=True helps to render changes of website without need for running the server again & again....
