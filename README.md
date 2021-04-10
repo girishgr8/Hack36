@@ -20,19 +20,23 @@ Intro of the project
 ## DEMO:
 
 <div align="center">
+    <img src="./demo/homepage.png" width="100%"></img>
     <img src="./demo/vaccine1.png" width="100%"></img>
     <img src="./demo/vaccine2.png" width="100%"></img>
     <img src="./demo/vaccine3.png" width="100%"></img>
+    <img src="./demo/saferoutes1.png" width="100%"></img>
+    <img src="./demo/saferoutes2.png" width="100%"></img>
+
 </div>
 
 ## Contributors:
 
 Team Name: whyNot
 
--   [Girish Thatte](https://github.com/girishgr8)
--   [Gayatri Srinivasan](https://github.com/gayatri-01)
--   [Amisha Waghela](https://github.com/amisha-w)
--   [Rahul Mistry](https://github.com/rahulmistry33)
+- [Girish Thatte](https://github.com/girishgr8)
+- [Gayatri Srinivasan](https://github.com/gayatri-01)
+- [Amisha Waghela](https://github.com/amisha-w)
+- [Rahul Mistry](https://github.com/rahulmistry33)
 
 ### Made at:
 
