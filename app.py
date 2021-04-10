@@ -1,8 +1,13 @@
 from flask import Flask, redirect, url_for, render_template, request, session, flash, Markup
 import os
+from flask_cors import CORS, cross_origin
+
+
 
 # Creating instance of Flask...
 app = Flask(__name__)
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 @app.route("/", methods=['POST', 'GET'])
@@ -12,6 +17,9 @@ def index():
 if __name__ == "__main__":
 # debug=True helps to render changes of website without need for running the server again & again....
 	app.run(debug=True)
+
+
+
 
 
 '''
