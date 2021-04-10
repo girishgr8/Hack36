@@ -38,7 +38,11 @@ the spread of the virus.
 5. Our Statistical Analysis shows how views about vaccines are evolving with a proper timeline visualisation.
 6. Our analysis can help the government bodies to mitigate the negative views/ sentiments in the highlighted zones of our results.
 
-## Demo:
+## Presentation Link : https://cutt.ly/jc93XFy
+
+## Video Demo Link: https://youtu.be/zqFbbfLT2o0
+
+## Demo Images:
 
 <div align="center">
     <img src="./demo/homepage.PNG" width="100%"></img>
