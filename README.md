@@ -1,5 +1,4 @@
 <h1 align="center">CoviSafe</h1>
-<p align="center"></p>
 
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=28px> </a> ![Made-With-Python](https://img.shields.io/badge/Made_with-Python-yellow?style=for-the-badge&logo=python)  ![Made-With-Flask](https://img.shields.io/badge/Made_with-Flask-informational?style=for-the-badge&logo=flask)  ![IDE-Visual_Studio_Code](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code)
 
